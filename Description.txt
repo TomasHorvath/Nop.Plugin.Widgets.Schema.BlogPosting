@@ -1,0 +1,8 @@
+﻿Group: Widgets
+FriendlyName: SchemaOrg.BlogPosting
+SystemName:  Nop.Plugin.Widgets.Schema.BlogPosting
+Version: 1.00
+SupportedVersions: 3.90
+Author:  Tomas Horvath
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.Schema.BlogPosting.dll

@@ -1,0 +1,9 @@
+C:\tfs\KoreniSpices\src\Plugins\Nop.Plugin.Widgets.Schema.BlogPosting\bin\Release\Nop.Plugin.Widgets.Schema.BlogPosting.dll
+C:\tfs\KoreniSpices\src\Plugins\Nop.Plugin.Widgets.Schema.BlogPosting\bin\Release\Nop.Plugin.Widgets.Schema.BlogPosting.pdb
+C:\tfs\KoreniSpices\src\Plugins\Nop.Plugin.Widgets.Schema.BlogPosting\obj\Release\Nop.Plugin.Widgets.Schema.BlogPosting.csprojResolveAssemblyReference.cache
+C:\tfs\KoreniSpices\src\Plugins\Nop.Plugin.Widgets.Schema.BlogPosting\obj\Release\Nop.Plugin.Widgets.Schema.BlogPosting.dll
+C:\tfs\KoreniSpices\src\Plugins\Nop.Plugin.Widgets.Schema.BlogPosting\obj\Release\Nop.Plugin.Widgets.Schema.BlogPosting.pdb
+C:\tfs\KoreniSpices\src\Presentation\Nop.Web\Plugins\Widgets.Schema.BlogPosting\Views\Configure.cshtml
+C:\tfs\KoreniSpices\src\Presentation\Nop.Web\Plugins\Widgets.Schema.BlogPosting\Views\PublicInfo.cshtml
+C:\tfs\KoreniSpices\src\Presentation\Nop.Web\Plugins\Widgets.Schema.BlogPosting\Nop.Plugin.Widgets.Schema.BlogPosting.dll
+C:\tfs\KoreniSpices\src\Presentation\Nop.Web\Plugins\Widgets.Schema.BlogPosting\Nop.Plugin.Widgets.Schema.BlogPosting.pdb

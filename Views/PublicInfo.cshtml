@@ -1,0 +1,31 @@
+﻿@model Nop.Plugin.Widgets.Schema.BlogPosting.Models.BlogPostingViewModel
+
+<script type="application/ld+json">
+	{
+	"@@context": "http://schema.org",
+	"@@type": "BlogPosting",
+	"mainEntityOfPage": {
+	"@@type": "WebPage"
+
+	},
+	"headline": "@Model.BlogPost.Title",
+
+	"datePublished": "@Model.BlogPost.CreatedOn.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz");",
+	"url": "@Model.blogPostUrl",
+	"author": {
+	"@@type": "Organization",
+	"name": "@Model.Store.Name"
+	},
+	"publisher": {
+	"@@type": "Organization",
+	"name": "@Model.Store.Name",
+	"logo": {
+	"@@type": "ImageObject",
+	"url": "@Model.logoUrl",
+	"width": 168,
+	"height": 105
+	}
+	},
+	"description": "@Model.BlogPost.BodyOverview"
+	}
+</script>
